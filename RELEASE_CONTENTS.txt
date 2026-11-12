@@ -1,8 +1,12 @@
 .env.example
 .gitignore
+COPYRIGHT
 LICENSE
 README.md
+RELEASE_CONTENTS.txt
+SHA256SUMS.txt
 THIRD_PARTY_NOTICES.md
+app/__pycache__/detect_pose.cpython-313.pyc
 app/detect_pose.py
 desktop/DetectDemo.desktop.in
 desktop/DetectPoseDemo.desktop.in
