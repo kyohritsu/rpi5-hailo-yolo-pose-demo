@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=物体検知 + 姿勢推定
+Comment=Hailo-8L Object Detection and Pose Estimation
+Exec=@REPO_DIR@/scripts/start_detect_pose.sh
+Icon=applications-multimedia
+Terminal=true
+Categories=Utility;

@@ -1,0 +1,14 @@
+.env.example
+.gitignore
+LICENSE
+README.md
+THIRD_PARTY_NOTICES.md
+app/detect_pose.py
+desktop/DetectDemo.desktop.in
+desktop/DetectPoseDemo.desktop.in
+desktop/PoseDemo.desktop.in
+docs/PUBLISH_CHECKLIST.md
+scripts/install_desktop_shortcuts.sh
+scripts/start_detect.sh
+scripts/start_detect_pose.sh
+scripts/start_pose.sh

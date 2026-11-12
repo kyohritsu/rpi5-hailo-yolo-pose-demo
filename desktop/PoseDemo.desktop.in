@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=姿勢推定デモ
+Comment=Hailo-8L Pose Estimation
+Exec=@REPO_DIR@/scripts/start_pose.sh
+Icon=applications-multimedia
+Terminal=true
+Categories=Utility;

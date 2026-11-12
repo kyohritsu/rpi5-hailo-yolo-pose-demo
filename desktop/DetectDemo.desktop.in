@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=物体検知デモ
+Comment=Hailo-8L Object Detection
+Exec=@REPO_DIR@/scripts/start_detect.sh
+Icon=applications-multimedia
+Terminal=true
+Categories=Utility;
